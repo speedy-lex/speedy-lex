@@ -1,6 +1,17 @@
 # Hi, I'm Speedy_Lex 👋
+
+## About Me
 - I develop primarily in Rust 🔨
 - I live in the Netherlands 🇳🇱
 - I make AI, but from scratch 🤖
 - I like math ➗
 - Talk to me on discord ✉️: [@speedy_lex](https://discord.com/users/824339532996411432)
+
+## Skills
+
+<p align="center">
+    <a href="https://github.com/LelouchFR/skill-icons">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,arduino,assembly,bash,blender,c,codeberg,css,desmos,firefox,flask,github,html,hyprland,iced,inkscape,linux,markdown,python,raspberrypi,rust,tmux,virtualbox,vscode&perline=8" />
+    </a>
+</p>
+    
