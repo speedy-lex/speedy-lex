@@ -1,5 +1,8 @@
 name: Generate Readme
 
+permissions: 
+  contents: write
+
 on: 
   schedule: 
     - cron: "*/30 * * * *"
