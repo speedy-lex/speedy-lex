@@ -1,5 +1,8 @@
 name: Generate snake animation
 
+permissions: 
+  contents: write
+
 on:
   schedule:
     - cron: "* */24 * * *"
