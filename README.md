@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://github.com/LelouchFR/skill-icons">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,arduino,assembly,bash,blender,c,codeberg,css,desmos,firefox,flask,github,html,hyprland,iced,inkscape,linux,markdown,python,raspberrypi,rust,tmux,virtualbox,vscode&perline=8" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,assembly,bash,c,css,element,github,html,hyprland,linux,python,rust,tmux,vim,virtualbox,vscode&perline=8" />
     </a>
 </p>
     
