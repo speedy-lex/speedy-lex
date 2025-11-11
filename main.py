@@ -20,7 +20,7 @@ with open("template.md", encoding="utf-8") as r:
     template = r.read()
 
 replacements = {
-    "skills": get_skills_html(["assembly", "arch", "codeberg", "firefox", "arduino", "bash", "blender", "c", "css", "desmos", "flask", "github", "html", "hyprland", "iced", "inkscape", "linux", "markdown", "python", "rust", "raspberrypi", "vscode", "virtualbox", "tmux"])
+    "skills": get_skills_html(["assembly", "arch", "bash", "c", "css", "element", "github", "html", "hyprland", "linux", "python", "rust", "vim", "vscode", "virtualbox", "tmux"])
 }
 
 template = replace(template, replacements)
